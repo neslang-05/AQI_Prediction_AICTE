@@ -2,6 +2,8 @@
 
 This project aims to predict the Air Quality Index (AQI) using machine learning techniques. The repository is designed to help analyze data related to air quality and build predictive models for AQI based on various environmental factors.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/neslang-05/AQI_Prediction_AICTE)
+
 ## Project Overview
 
 - **Goal:** Predict AQI from given environmental data.
